@@ -1,6 +1,6 @@
 Hi there!
 
-I´m Vanessa Huber Idalencio, I am from Brazil and I am currently learning the magic of coding.
+I am Vanessa Huber Idalencio, a Brazilian who lives in Germany and currently learns the magic of coding.
 
 You can reach me on...
 <br>
